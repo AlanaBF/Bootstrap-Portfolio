@@ -1,28 +1,61 @@
 footer {
-    position: absolute;
-    width: 100%;
-    height: 60px;
-    line-height: 60px;
-    background-color: #f5f5f5;
-    margin-top: 50px;
-  }
-  .navbar-expand-lg {
-    background-color: aqua;
-  }
-  .navbar-brand {
-    color:navy !important;
-  }
-  #navbarDropdown {
-    color: navy !important;
-  }
-  .display-4 {
-    color: white;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
-  }
-  .jumbotron {
-    background-image: url("../images/IMG_8409.jpeg");
-    background-size: 100% 100%;
-  }
-.card-body {
-  width:100%;
+  position: absolute;
+  width: 100%;
+  height: 60px;
+  line-height: 60px;
+  background-color: #f5f5f5;
+  margin-top: 50px;
+}
+
+nav a:hover {
+  background-color: teal !important;
+  box-shadow: 10px 10px lightblue;
+}
+
+.navbar-expand-lg {
+  background-color: aqua;
+}
+
+.navbar-brand {
+  color: navy !important;
+}
+
+#navbarDropdown {
+  color: navy !important;
+}
+
+.display-4 {
+  color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.jumbotron {
+  background-image: url("../images/IMG_8409.jpeg");
+  background-size: 100% 100%;
+}
+
+.btn-secondary1 {
+  background-color: rgb(223, 7, 115);
+}
+
+.btn-secondary2 {
+  background-color: rgb(51, 234, 51);
+}
+
+.btn-secondary3 {
+  background-color: rgb(20, 233, 248);
+}
+
+.btn-secondary4 {
+  background-color: rgb(161, 6, 161);
+}
+
+button a:hover {
+  background-color: teal !important;
+  box-shadow: 10px 10px lightblue;
+}
+
+.skill {
+  border: 5px solid teal;
+  background-color: paleturquoise;
 }

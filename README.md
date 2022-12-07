@@ -1,5 +1,7 @@
 # Bootstrap-Portfolio
 
+## Description
+
   Using Bootstrap, I have recreated my portfolio site with the following items:
 
    The website includes the following bootstrap components:
@@ -20,6 +22,7 @@
 
 The Bootstrap solution minimizes use of media queries.
 
+https://alanabf.github.io/Bootstrap-Portfolio/ 
 
 ## Installation
 

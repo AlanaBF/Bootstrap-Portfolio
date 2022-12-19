@@ -2,7 +2,7 @@
 
 ## Description
 
-  Using Bootstrap, I have recreated my portfolio site with the following items:
+  Using Bootstrap, I recreated my first portfolio site with the following items:
 
    The website includes the following bootstrap components:
 
@@ -32,9 +32,9 @@ N/A
 
 The webpage is a Portfolio giving users an insight into me and what I do. The page demonstrates my skills and is constantly updated to showcase my best work. 
 
-![alt text](./images/Webpage1.png)
-![alt text](./images/Webpage2.png)
-![alt text](./images/Webpage3.png)
+![alt text](./images/WebpageScreenshot01.png)
+![alt text](./images/WebpageScreenshot02.png)
+![alt text](./images/WebpageScreenshot03.png)
 
 ## Credits
 

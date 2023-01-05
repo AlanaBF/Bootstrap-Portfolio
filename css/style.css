@@ -6,6 +6,13 @@ footer {
   background-color: #f5f5f5;
   margin-top: 50px;
 }
+h1 {
+  font-style: italic;
+}
+
+h2 {
+  padding-bottom: 50px;
+}
 
 nav a:hover {
   background-color: teal !important;
@@ -34,6 +41,27 @@ nav a:hover {
   background-size: 100% 100%;
 }
 
+#aboutMe {
+  background-color: rgb(10, 160, 241);
+  font-size: x-large;
+}
+
+#myPortfolio {
+  background-color: aquamarine;
+}
+
+#myRPS {
+  background-color: palegoldenrod;
+}
+
+#myHoriseon {
+  background-color: paleturquoise;
+}
+
+#myFinances {
+background-color: palevioletred;
+}
+
 .btn-secondary1 {
   background-color: rgb(223, 7, 115);
 }
@@ -50,9 +78,12 @@ nav a:hover {
   background-color: rgb(161, 6, 161);
 }
 
+.btn-secondary5 {
+  background-color: yellow;
+}
+
 button a:hover {
-  background-color: teal !important;
-  box-shadow: 10px 10px lightblue;
+  background-color: white !important;
 }
 
 .skill {
